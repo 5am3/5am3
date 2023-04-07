@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 OSWA & CISSP
 
 
-<a href="https://www.credential.net/78d58f4e-0e37-4c05-95c5-ba5bda1ea24d#gs.u3wpm1">
+<a target="_blank" href="https://www.credential.net/78d58f4e-0e37-4c05-95c5-ba5bda1ea24d#gs.u3wpm1">
   <img alt="OSWA" src="https://templates.images.credential.net/16776822019823473556045426206069.png" height="80" />
 </a>
-<a href="https://www.credly.com/badges/0f004dd4-11f5-4fa0-baa6-01a4d9d4686c/public_url">
+<a target="_blank" href="https://www.credly.com/badges/0f004dd4-11f5-4fa0-baa6-01a4d9d4686c/public_url">
   <img alt="CISSP" src="https://images.credly.com/images/5e6f5247-1d61-4932-a5da-999a7feec067/isc2_cissp2.png" height="80" />
 </a>
