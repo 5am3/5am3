@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 OSWA & CISSP
 
 
+
+<a target="_blank" href="https://www.credential.net/82bc084f-85b7-4bb9-addd-8a432d14b5ad">
+  <img alt="OSWP" src="https://templates.images.credential.net/16776823122090017879526713130770.png" height="80" />
+</a>
+
 <a target="_blank" href="https://www.credential.net/78d58f4e-0e37-4c05-95c5-ba5bda1ea24d#gs.u3wpm1">
   <img alt="OSWA" src="https://templates.images.credential.net/16776822019823473556045426206069.png" height="80" />
 </a>
