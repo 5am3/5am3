@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-OSWP/OSCP/OSWA & CISSP
+OSWE/OSWP/OSCP/OSWA & CISSP
 
 
+<a target="_blank" href="https://www.credential.net/da761826-c5b8-4bbf-8e6d-743a7f96e324">
+  <img alt="OSWE" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73112800" height="80" />
+</a>
 
 <a target="_blank" href="https://www.credential.net/6427a4d2-4e5c-4624-90b0-90759655c67a">
   <img alt="OSCP" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72573974" height="80" />
