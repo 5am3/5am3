@@ -1,4 +1,4 @@
-### 🤔 5am3 (丶诺熙)
+### 💬 5am3 (丶诺熙)
 
 <!--
 **5am3/5am3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-OSWE/OSWP/OSCP/OSWA/OSDA & CISSP
+CTF退役选手，队伍:kn0ck/SourceCode。
 
+- 方向: Web安全
+- 爱好: 🏂 滑雪
+- 最近动向: 🤔 目前沉迷考证ing...
+
+> Retired CTFer from kn0ck & SourceCode
+> - Web Security
+> - 🤔 Certificate Addicts...
+
+
+<br/>
+<br/>
+
+Certificate: OSWE/OSWP/OSCP/OSWA/OSDA & CISSP
 
 <a target="_blank" href="https://www.credential.net/da761826-c5b8-4bbf-8e6d-743a7f96e324">
   <img alt="OSWE" src="https://img.5am3.com/img//2023/08/25/22-15-50-e1ec061917162a74942948acf67382c7-2fc76e.png" height="80" />
