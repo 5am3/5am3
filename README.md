@@ -29,7 +29,11 @@ CTF退役选手，队伍:kn0ck/SourceCode。
 <br/>
 <br/>
 
-Certificate: OSWE/OSWP/OSCP/OSWA/OSDA & CISSP
+Certificate: OSEP/OSWE/OSWP/OSCP/OSWA/OSDA & CISSP
+
+<a target="_blank" href="https://www.credential.net/5e7252b5-718b-4c10-a834-ffdd89b94d9a">
+  <img alt="OSWE" src="https://img.5am3.com/img//2023/09/28/19-33-44-dca4089dd7bfad680d02069db9420fbc-ffa9d7.png" height="80" />
+</a>
 
 <a target="_blank" href="https://www.credential.net/da761826-c5b8-4bbf-8e6d-743a7f96e324">
   <img alt="OSWE" src="https://img.5am3.com/img//2023/08/25/22-15-50-e1ec061917162a74942948acf67382c7-2fc76e.png" height="80" />
